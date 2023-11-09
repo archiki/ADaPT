@@ -1,0 +1,1493 @@
+{
+    "fixed_0": {
+        "problem": "I am looking to buy a product. i need a long clip-in hair extension which is natural looking, and price lower than 20.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"long clip-in hair extension natural looking\"]",
+            "think[I should check if B08H5DCD65 matches my desired criteria in detail.]",
+            "click[B08H5DCD65]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08H5DCD65]",
+            "click[natural black #1b]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_1": {
+        "problem": "I am looking to buy a product. i want a noise cancelling cosycost usb microphone, and price lower than 60.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"noise cancelling cosycost usb microphone\"]",
+            "think[I should check if B0972Q1T8T matches my desired criteria in detail.]",
+            "click[B0972Q1T8T]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B0972Q1T8T]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_2": {
+        "problem": "I am looking to buy a product. i'm looking for hair treatments that are sulfate and paraben free and are of high quality too. i need it in bottle for with 60 capsules, and price lower than 50.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"sulfate and paraben free high quality hair treatment in bottle form with 60 capsules\"]",
+            "click[Back to Search]",
+            "search[\"sulfate and paraben free high quality hair treatment in bottle form with 60 capsules with price lower than $50\"]"
+        ]
+    },
+    "fixed_3": {
+        "problem": "I am looking to buy a product. i need gluten free vegetarian smoked peppered bacon - 4 ounce (pack of 2), and price lower than 60.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"gluten free vegetarian smoked peppered bacon 4 ounce pack of 2\"]",
+            "think[I should check if B06Y96MXJV matches my desired criteria in detail.]",
+            "click[B06Y96MXJV]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B06Y96MXJV]",
+            "click[vegetarian smoked]",
+            "click[4 ounce (pack of 2)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_4": {
+        "problem": "I am looking to buy a product. find me a high speed dual style package with  12\" power amplifier car subwoofer, and price lower than 200.00 dollars ",
+        "score": 0.25,
+        "success": false,
+        "action_history": [
+            "search[\"high speed dual style package 12\" power amplifier car subwoofer\"]",
+            "click[Back to Search]",
+            "search[\"high speed dual style package 12\" power amplifier car subwoofer with price lower than $200\"]",
+            "click[B0886BKRSN]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_5": {
+        "problem": "I am looking to buy a product. i'm looking for a space-saving ottoman bench to match my blue living room. pick that one that's 100x45x45cm, and price lower than 430.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"space-saving ottoman bench blue 100x45x45cm\"]",
+            "think[I should check if B08KVX5DPB matches my desired criteria in detail.]",
+            "click[B08KVX5DPB]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08KVX5DPB]",
+            "click[blue]",
+            "click[100x45x45cm]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_6": {
+        "problem": "I am looking to buy a product. i'm looking for a queen size bedspread set in the color redwood, and price lower than 80.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"queen size bedspread set redwood\"]",
+            "click[Back to Search]",
+            "search[\"queen size bedspread set redwood\"]"
+        ]
+    },
+    "fixed_7": {
+        "problem": "I am looking to buy a product. i'm looking for a styling cream that is cruelty free and for short hair, and price lower than 40.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"cruelty free styling cream for short hair\"]",
+            "think[I should check if B008HRRWHM matches my desired criteria in detail.]",
+            "click[B008HRRWHM]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B008HRRWHM]",
+            "click[8.5 ounce (pack of 1)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_8": {
+        "problem": "I am looking to buy a product. i want to find xx-large black workout sweatpants with a relaxed fit, and price lower than 30.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"xx-large black workout sweatpants relaxed fit\"]",
+            "think[I should check if B0962X9S1W matches my desired criteria in detail.]",
+            "click[B0962X9S1W]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B0962X9S1W]",
+            "click[black]",
+            "click[xx-large]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_9": {
+        "problem": "I am looking to buy a product. i am looking for a grey sectional sofa for my living room ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"grey sectional sofa for living room\"]",
+            "click[B09F2VQY3T]",
+            "click[grey]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_10": {
+        "problem": "I am looking to buy a product. i would like a bundle of crackers, spicy beef and cheese which is shelf stable. it also needs to be keto and gluten free, and price lower than 40.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"crackers spicy beef cheese bundle shelf stable keto gluten free\"]",
+            "think[I should check if B0978P4L31 matches my desired criteria in detail.]",
+            "click[B0978P4L31]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B0978P4L31]",
+            "click[spicy beef backpack bundle]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_11": {
+        "problem": "I am looking to buy a product. i am looking to buy a woman's us size 5 high heel shoe with a rubber sole and color patent-beige, and price lower than 90.00 dollars ",
+        "score": 0.6,
+        "success": false,
+        "action_history": [
+            "search[\"women's US size 5 high heel shoe rubber sole patent-beige\"]",
+            "think[I should check if B09Q13LK21 matches my desired criteria in detail.]",
+            "click[B09Q13LK21]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09Q13LK21]",
+            "click[5 us]",
+            "click[beige]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_12": {
+        "problem": "I am looking to buy a product. i am looking for a remote control for an lg blu-ray dvd home theater system, and price lower than 70.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"remote control for LG Blu-ray DVD home theater system\"]",
+            "think[I should check if B08B5XZ7LR matches my desired criteria in detail.]",
+            "click[B08B5XZ7LR]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08B5XZ7LR]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_13": {
+        "problem": "I am looking to buy a product. i need a long lasting 6.76 fl oz bottle of l'eau d'issey, and price lower than 80.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"long lasting 6.76 fl oz bottle of l'eau d'issey\"]",
+            "think[I should check if B000VOHH8I matches my desired criteria in detail.]",
+            "click[B000VOHH8I]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B000VOHH8I]",
+            "click[6.76 fl oz (pack of 1)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_14": {
+        "problem": "I am looking to buy a product. i am looking for dairy free and apple variety pack of chips, and price lower than 30.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"dairy free apple variety pack chips\"]",
+            "click[Back to Search]",
+            "search[\"dairy free apple variety pack chips\"]"
+        ]
+    },
+    "fixed_15": {
+        "problem": "I am looking to buy a product. i need a gingko light and 20\"x20\" pillow cover that is hand painted, and price lower than 50.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"gingko light 20x20 pillow cover hand painted\"]",
+            "click[Back to Search]",
+            "search[\"gingko light 20x20 pillow cover hand painted\"]"
+        ]
+    },
+    "fixed_16": {
+        "problem": "I am looking to buy a product. i'm looking for lead free luxury scented candle which last for 25+ hours, it should be in tin voyager, and price lower than 40.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"lead free luxury scented candle tin voyager\"]",
+            "think[I should check if B091D87QMM matches my desired criteria in detail.]",
+            "click[B091D87QMM]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B091D87QMM]",
+            "click[voyager]",
+            "click[25+ hour]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_17": {
+        "problem": "I am looking to buy a product. i am looking for mn4 color foundation for my sensitive skin, and price lower than 40.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"mn4 color foundation sensitive skin\"]",
+            "think[I should check if B077PR9TL4 matches my desired criteria in detail.]",
+            "click[B077PR9TL4]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B077PR9TL4]",
+            "click[mn4]",
+            "click[1 fl oz (pack of 1)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_18": {
+        "problem": "I am looking to buy a product. i want double horn bluetooth wireless speakers which is portable and easy to carry, and price lower than 60.00 dollars ",
+        "score": 0.25,
+        "success": false,
+        "action_history": [
+            "search[\"double horn bluetooth wireless speakers portable\"]",
+            "think[I should check if B08DXY5N2B matches my desired criteria in detail.]",
+            "click[B08DXY5N2B]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08DXY5N2B]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_19": {
+        "problem": "I am looking to buy a product. i am looking for a high power sound column subwoofer, that uses bluetooth and is also a 3d surround sound system, and price lower than 650.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"high power sound column subwoofer bluetooth 3d surround sound\"]",
+            "think[I should check if B08SL7LRRQ matches my desired criteria in detail.]",
+            "click[B08SL7LRRQ]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08SL7LRRQ]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_20": {
+        "problem": "I am looking to buy a product. i need a six pack of manual toothbrushes that are good for sensitive teeth, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"six pack manual toothbrushes sensitive teeth\"]",
+            "click[Back to Search]",
+            "search[six pack manual toothbrushes sensitive teeth]",
+            "click[B08XLTHW31]",
+            "click[8 count (pack of 1)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_21": {
+        "problem": "I am looking to buy a product. can you find me a shelf stable potato side dish?  i want something that i can cook in the microwave, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"shelf stable potato side dish microwave\"]",
+            "think[I should check if B004PEET4K matches my desired criteria in detail.]",
+            "click[B004PEET4K]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B004PEET4K]",
+            "click[microwave meals]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_22": {
+        "problem": "I am looking to buy a product. i need a highspeed hdmi cable that is purple, and price lower than 80.00 dollars ",
+        "score": 0.3333333333333333,
+        "success": false,
+        "action_history": [
+            "search[\"highspeed purple hdmi cable\"]",
+            "think[I should check if B00A3I62C4 matches my desired criteria in detail.]",
+            "click[B00A3I62C4]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B00A3I62C4]",
+            "click[1 meter]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_23": {
+        "problem": "I am looking to buy a product. i'm looking for machine wasable savannan burlap placemat with compatible table runner with dahlia flower print table set of 6 pcs. also choose color golden circlesan4455 with size 13x70inch+13x19inch*4, and price lower than 70.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"machine washable savannah burlap placemat with compatible table runner with dahlia flower print table set of 6 pcs\"]",
+            "think[I should check if B09BCFH9ZK matches my desired criteria in detail.]",
+            "click[B09BCFH9ZK]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09BCFH9ZK]",
+            "click[13x70inch+13x19inch*4]",
+            "click[golden circlesan4455]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_24": {
+        "problem": "I am looking to buy a product. i am looking for a high speed 3 foot red usb cable, and price lower than 50.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"high speed 3 foot red usb cable\"]",
+            "think[I should check if B07DC54RV7 matches my desired criteria in detail.]",
+            "click[B07DC54RV7]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B07DC54RV7]",
+            "click[3 feet]",
+            "click[red]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_25": {
+        "problem": "I am looking to buy a product. i'm looking for a great river organic milling flour, and price lower than 70.00 dollars ",
+        "score": 0.6,
+        "success": false,
+        "action_history": [
+            "search[\"great river organic milling flour\"]",
+            "think[I should check if B0049YMA9W matches my desired criteria in detail.]",
+            "click[B0049YMA9W]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B0049YMA9W]",
+            "click[25 pound (pack of 1)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_26": {
+        "problem": "I am looking to buy a product. i would like a 20m digital 4g lte coaxial cable that's male to female, and price lower than 70.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"20m digital 4g lte coaxial cable male to female\"]",
+            "think[I should check if B08BZJMHN8 matches my desired criteria in detail.]",
+            "click[B08BZJMHN8]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08BZJMHN8]",
+            "click[500cm | 16.4ft]"
+        ]
+    },
+    "fixed_27": {
+        "problem": "I am looking to buy a product. i need high quality pillow covers in color a-8 and it should be fade resistant, and price lower than 60.00 dollars ",
+        "score": 0.3333333333333333,
+        "success": false,
+        "action_history": [
+            "search[\"high quality pillow covers color a-8 fade resistant\"]",
+            "think[I should check if B093DVFYL6 matches my desired criteria in detail.]",
+            "click[B093DVFYL6]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B093DVFYL6]",
+            "click[green and yellow]",
+            "click[16x16]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_28": {
+        "problem": "I am looking to buy a product. i am looking for an oral hygiene toothbrush. it should be easy to carry, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"oral hygiene toothbrush easy to carry\"]",
+            "think[I should check if B09P4MKCF6 matches my desired criteria in detail.]",
+            "click[B09P4MKCF6]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09P4MKCF6]",
+            "click[9x5x1.2cm]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_29": {
+        "problem": "I am looking to buy a product. i need a long lasting fragrance gift set for women, and price lower than 80.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"long lasting fragrance gift set for women\"]",
+            "think[Does any product on the list page exactly match the search criteria?]"
+        ]
+    },
+    "fixed_30": {
+        "problem": "I am looking to buy a product. i need gluten free popcorn, and price lower than 120.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"gluten free popcorn\"]",
+            "think[I should check if B08FRLYZFD matches my desired criteria in detail.]",
+            "click[B08FRLYZFD]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08FRLYZFD]",
+            "click[Back to Search]",
+            "search['gluten free popcorn']",
+            "click[B07Z59P8JH]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_31": {
+        "problem": "I am looking to buy a product. i am looking for  gluten free black rock salt made by himalayan . and i choose the 2.8 ounce pack with himalayan pink salt coarse grind, and price lower than 30.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"gluten free black rock salt made by himalayan 2.8 ounce pack with himalayan pink salt coarse grind\"]",
+            "think[I should check if B07FK4LPSS matches my desired criteria in detail.]",
+            "click[B07FK4LPSS]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B07FK4LPSS]",
+            "click[black salt- coarse grind 2.2 lbs jar]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_32": {
+        "problem": "I am looking to buy a product. i am looking for a black fast wireless universal charging stand, and price lower than 50.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"black fast wireless universal charging stand\"]",
+            "click[Back to Search]",
+            "search[\"black fast wireless universal charging stand\"]",
+            "click[B07FK54XSP]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_33": {
+        "problem": "I am looking to buy a product. i need a set of leak proof, bpa free jars, and price lower than 30.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"leak proof bpa free jars\"]",
+            "think[I should check if B00K02S6D6 matches my desired criteria in detail.]",
+            "click[B00K02S6D6]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B00K02S6D6]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_34": {
+        "problem": "I am looking to buy a product. i'm looking for  made a cookies for birthday parties, and price lower than 40.00 dollars ",
+        "score": 0.25,
+        "success": false,
+        "action_history": [
+            "search[\"cookies for birthday parties\"]",
+            "think[I should check if B09KZ9CVKW matches my desired criteria in detail.]",
+            "click[B09KZ9CVKW]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09KZ9CVKW]",
+            "click[dinosaur party]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_35": {
+        "problem": "I am looking to buy a product. i am searching for a gold color smart watch bands compatible for apple and any one of the sizes 38mm | 40mm | 41mm, and price lower than 30.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"gold color smart watch bands compatible for apple\"]",
+            "think[I should check if B098LB3Z65 matches my desired criteria in detail.]",
+            "click[B098LB3Z65]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B098LB3Z65]",
+            "click[gold-black]",
+            "click[38mm | 40mm | 41mm]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_36": {
+        "problem": "I am looking to buy a product. i'm looking for a single pack of old style, brown hair dye, and price lower than 40.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"single pack old style brown hair dye\"]",
+            "think[I should check if B000209JS2 matches my desired criteria in detail.]",
+            "click[B000209JS2]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B000209JS2]",
+            "click[single]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_37": {
+        "problem": "I am looking to buy a product. i am looking for a pendant light to go in my dining room with dimmer switch, and price lower than 120.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"pendant light with dimmer switch for dining room\"]",
+            "think[I should check if B09578LBGZ matches my desired criteria in detail.]",
+            "click[B09578LBGZ]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09578LBGZ]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_38": {
+        "problem": "I am looking to buy a product. i am searching for a high gloss tv stand with additional storage space. also, choose an ob color, and price lower than 180.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"high gloss TV stand with additional storage space, color options, and price lower than $180.00\"]",
+            "think[I should check if B09P5YYJTT matches my desired criteria in detail.]",
+            "click[B09P5YYJTT]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09P5YYJTT]",
+            "click[60'' l white]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_39": {
+        "problem": "I am looking to buy a product. i want to buy a pair of but lifting grey skinny jean shorts, and price lower than 40.00 dollars ",
+        "score": 0.3333333333333333,
+        "success": false,
+        "action_history": [
+            "search[\"butt lifting grey skinny jean shorts\"]",
+            "think[I should check if B08YMZP8J4 matches my desired criteria in detail.]",
+            "click[B08YMZP8J4]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08YMZP8J4]",
+            "click[cool grey-butt lift]",
+            "click[2]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_40": {
+        "problem": "I am looking to buy a product. i need a futon and chaise set that is made with faux leather. and i would prefer the navy linen color, and price lower than 130.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"futon and chaise set made with faux leather navy linen color\"]",
+            "click[Back to Search]",
+            "search[\"futon and chaise set made with faux leather navy linen color\"]",
+            "click[B005FKMUHQ]",
+            "click[navy linen]",
+            "click[futon and chaise set]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_41": {
+        "problem": "I am looking to buy a product. i'm trying to find white bluetooth speakers that are not only water resistant but also come with stereo sound, and price lower than 60.00 dollars ",
+        "score": 0.75,
+        "success": false,
+        "action_history": [
+            "search[\"white bluetooth speakers water resistant stereo sound\"]",
+            "think[I should check if B076B8Y5CF matches my desired criteria in detail.]",
+            "click[B076B8Y5CF]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B076B8Y5CF]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_42": {
+        "problem": "I am looking to buy a product. i would like a 8 fluid ounce bottle of tea tree lotion, and price lower than 40.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"8 fluid ounce tea tree lotion\"]",
+            "think[Does any product on the list page exactly match the search criteria?]",
+            "click[B07S2TG6W6]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_43": {
+        "problem": "I am looking to buy a product. i'm looking for some black high heeled sandals for my mom. she wears size 5.5, and price lower than 80.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"black high heeled sandals size 5.5\"]",
+            "click[Back to Search]",
+            "search[\"black high heeled sandals size 5.5\"]"
+        ]
+    },
+    "fixed_44": {
+        "problem": "I am looking to buy a product. i'm looking for a silicon exfoliating body scrubber which would be easy to use, and price lower than 30.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"silicon exfoliating body scrubber easy to use\"]",
+            "think[I should check if B098Q7TFKN matches my desired criteria in detail.]",
+            "click[B098Q7TFKN]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B098Q7TFKN]",
+            "click[premium gray]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_45": {
+        "problem": "I am looking to buy a product. i am looking for some easy to install gold plated banana plugs for speaker wire, and price lower than 40.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"easy to install gold plated banana plugs for speaker wire\"]",
+            "think[I should check if B073JD8VLR matches my desired criteria in detail.]",
+            "click[B073JD8VLR]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B073JD8VLR]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_46": {
+        "problem": "I am looking to buy a product. i'm looking for hair extensions for natural hair and straight hair so need to buy it, and price lower than 50.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"hair extensions for natural hair and straight hair\"]",
+            "think[I should check if B08QYZT9BD matches my desired criteria in detail.]",
+            "click[B08QYZT9BD]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08QYZT9BD]",
+            "click[20\"-straight]",
+            "click[dark auburn to light auburn]"
+        ]
+    },
+    "fixed_47": {
+        "problem": "I am looking to buy a product. i want capri sun pacific cooler mixed fruit naturally flavored juice drinks, and price lower than 30.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"capri sun pacific cooler mixed fruit naturally flavored juice drinks\"]",
+            "think[I should check if B000R30X2A matches my desired criteria in detail.]",
+            "click[B000R30X2A]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B000R30X2A]",
+            "click[pacific cooler]",
+            "click[6 fl oz (pack of 10)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_48": {
+        "problem": "I am looking to buy a product. find me a motion detection high definition outdoor camera with 1080p hd definition, and price lower than 160.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"motion detection high definition outdoor camera 1080p\"]",
+            "think[I should check if B09N6S4L38 matches my desired criteria in detail.]",
+            "click[B09N6S4L38]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09N6S4L38]",
+            "click[motion detection]"
+        ]
+    },
+    "fixed_49": {
+        "problem": "I am looking to buy a product. i need an engineered wood end table, and price lower than 170.00 dollars ",
+        "score": 0.05,
+        "success": false,
+        "action_history": [
+            "search[\"engineered wood end table\"]",
+            "click[Back to Search]",
+            "search[\"engineered wood end table price lower than $170\"]",
+            "click[B08JCL61PP]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_50": {
+        "problem": "I am looking to buy a product. i want to find a women's gift set that contains long-lasting edt spray and body cream, and price lower than 110.00 dollars ",
+        "score": 0,
+        "success": false,
+        "action_history": [
+            "search[\"women's gift set long-lasting edt spray body cream\"]",
+            "think[I should check if B0154CTH66 matches my desired criteria in detail.]",
+            "click[B0154CTH66]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]"
+        ]
+    },
+    "fixed_51": {
+        "problem": "I am looking to buy a product. locate the ambesonne harbour stripe throw pillow cover, 18 x 18 inch, double sided.  i want the salmon brown color, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"ambesonne harbour stripe throw pillow cover 18 x 18 inch double sided salmon brown\"]",
+            "think[I should check if B075FZMXGS matches my desired criteria in detail.]",
+            "click[B075FZMXGS]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B075FZMXGS]",
+            "click[18 x 18-inch]",
+            "click[salmon brown]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_52": {
+        "problem": "I am looking to buy a product. i want a body wash that is dermatologist tested. it should have a cucumber and aloe scent, and price lower than 20.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\u201cdermatologist tested cucumber aloe body wash\u201d]",
+            "think[I should check if B093ZNDMMS matches my desired criteria in detail.]",
+            "click[B093ZNDMMS]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B093ZNDMMS]",
+            "click[cucumber + aloe]",
+            "click[24.5 fl oz]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_53": {
+        "problem": "I am looking to buy a product. i need a beige or green shower brush with a long handle, and price lower than 50.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"beige green shower brush long handle\"]",
+            "think[I should check if B09CF4X81Y matches my desired criteria in detail.]",
+            "click[B09CF4X81Y]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09CF4X81Y]",
+            "click[2 pack-beige]",
+            "click[2 Pcs=Green+Beige]"
+        ]
+    },
+    "fixed_54": {
+        "problem": "I am looking to buy a product. i would like a 16.9 fluid ounce amber bottle that could be used in a hair salon, and price lower than 40.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\u201c16.9 fluid ounce amber bottle hair salon\u201d]",
+            "click[Back to Search]",
+            "search[\"16.9 fluid ounce amber bottle hair salon with price lower than $40\"]",
+            "click[B091TZTD5G]",
+            "click[16.9 fl oz (pack of 1)]",
+            "click[amber]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_55": {
+        "problem": "I am looking to buy a product. im looking for a black alarm clock radio that displays the temperature and uses a usb port, and price lower than 100.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"black alarm clock radio with temperature display and USB port\"]",
+            "think[I should check if B09QQ7754D matches my desired criteria in detail.]",
+            "click[B09QQ7754D]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09QQ7754D]",
+            "click[black]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_56": {
+        "problem": "I am looking to buy a product. i'm looking for a high performance paint contrast projector, and price lower than 250.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"high performance paint contrast projector\"]",
+            "think[I should check if B07JX7QM8G matches my desired criteria in detail.]",
+            "click[B07JX7QM8G]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B07JX7QM8G]",
+            "click[projection paint contrast]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_57": {
+        "problem": "I am looking to buy a product. i need some kosher sea salt, and price lower than 40.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"kosher sea salt\"]",
+            "think[I should check if B088G1K5ZQ matches my desired criteria in detail.]",
+            "click[B088G1K5ZQ]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B088G1K5ZQ]",
+            "click[1.1 pound (pack of 1)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_58": {
+        "problem": "I am looking to buy a product. can i get a 2 light bath vanity lighting set with nickel finish?, and price lower than 160.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"2 light bath vanity lighting set with nickel finish\"]",
+            "think[I should check if B0897J4CNH matches my desired criteria in detail.]",
+            "click[B0897J4CNH]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B0897J4CNH]",
+            "click[brushed nickel-3-light]",
+            "click[3-light]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_59": {
+        "problem": "I am looking to buy a product. i am looking for non gmo sesame pretzels that come in a 12 pack, and price lower than 140.00 dollars ",
+        "score": 0,
+        "success": false,
+        "action_history": [
+            "search[\"non gmo sesame pretzels 12 pack\"]",
+            "click[Back to Search]",
+            "search[\"non gmo sesame pretzels 12 pack\"]"
+        ]
+    },
+    "fixed_60": {
+        "problem": "I am looking to buy a product. i want to find a yellow manual toothbrush suitable for 7-14 year old kids with sensitive teeth, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\u201cyellow manual toothbrush for 7-14 year old kids with sensitive teeth\u201d]",
+            "think[I should check if B09RFM8Q7G matches my desired criteria in detail.]",
+            "click[B09RFM8Q7G]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09RFM8Q7G]",
+            "click[7-14 year]",
+            "click[yellow-e]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_61": {
+        "problem": "I am looking to buy a product. hey i need some new press on nails.  get me babalal cat eye ones that aren't toxic and make sure the color you get is purple, and price lower than 40.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"Babalal cat eye press on nails purple\"]",
+            "think[I should check if B092VGFJY3 matches my desired criteria in detail.]",
+            "click[B092VGFJY3]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B092VGFJY3]",
+            "click[not toxic]"
+        ]
+    },
+    "fixed_62": {
+        "problem": "I am looking to buy a product. i am looking for dell ultra small desktop computer with core i5 , 16gb ram , 256gb ssd and windows 10 pro, and price lower than 230.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"Dell ultra small desktop computer core i5 16gb ram 256gb ssd windows 10 pro\"]",
+            "think[I should check if B07ST3YB1W matches my desired criteria in detail.]",
+            "click[B07ST3YB1W]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B07ST3YB1W]",
+            "click[16gb ram | 256gb ssd]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_63": {
+        "problem": "I am looking to buy a product. i am looking for a kahuna colored capri pant that has a relaxed fit and is in a size 20 plus, and price lower than 60.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"kahuna colored capri pant relaxed fit size 20 plus\"]",
+            "click[Back to Search]",
+            "search[\"kahuna colored capri pant relaxed fit size 20 plus with price lower than $60\"]",
+            "click[B08SQHTMPR]",
+            "click[kahuna]",
+            "click[20 plus]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_64": {
+        "problem": "I am looking to buy a product. get a tongue cleaner that is easy clean and use, and is also stainless steel, and price lower than 40.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"easy clean stainless steel tongue cleaner\"]",
+            "think[I should check if B09PLBXXYQ matches my desired criteria in detail.]",
+            "click[B09PLBXXYQ]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09PLBXXYQ]",
+            "click[easy to clean]",
+            "click[Back to Search]",
+            "type['tongue cleaner easy clean stainless steel']",
+            "search['tongue cleaner easy clean stainless steel']",
+            "click[B09PLBXXYQ]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_65": {
+        "problem": "I am looking to buy a product. i nee all natural but no artificial ingredients savory and spicy sauce, 3 pack with sweet kick mustard flavor, and price lower than 140.00 dollars ",
+        "score": 0,
+        "success": false,
+        "action_history": [
+            "search[\u201call natural savory spicy sauce 3 pack sweet kick mustard flavor\u201d]",
+            "click[Back to Search]",
+            "search[\"all natural savory spicy sauce 3 pack sweet kick mustard flavor with no artificial ingredients\"]"
+        ]
+    },
+    "fixed_66": {
+        "problem": "I am looking to buy a product. i am looking for some alcohol free skin care, and price lower than 80.00 dollars ",
+        "score": 0.1,
+        "success": false,
+        "action_history": [
+            "search[\"alcohol-free skin care\"]",
+            "think[I should check if B08H1X53JR matches my desired criteria in detail.]",
+            "click[B08H1X53JR]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08H1X53JR]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_67": {
+        "problem": "I am looking to buy a product. i need a stainless steel gua sha set that includes the roller and box, and price lower than 100.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"stainless steel gua sha set with roller and box\"]",
+            "think[I should check if B0922PDBSK matches my desired criteria in detail.]",
+            "click[B0922PDBSK]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B0922PDBSK]",
+            "click[2 pcs have box]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_68": {
+        "problem": "I am looking to buy a product. i would like a pair of brown size 7 shoes with a rubber sole, and price lower than 80.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"brown size 7 shoes with rubber sole\"]",
+            "think[I should check if B08FSYSM24 matches my desired criteria in detail.]",
+            "click[B08FSYSM24]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08FSYSM24]",
+            "click[brown]",
+            "click[7]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_69": {
+        "problem": "I am looking to buy a product. i need a 30 pair pack of skin care masks for eyes and wrinkles, and price lower than 40.00 dollars ",
+        "score": 0.75,
+        "success": false,
+        "action_history": [
+            "search[\"30 pair skin care masks for eyes and wrinkles\"]",
+            "think[I should check if B093HB8RSZ matches my desired criteria in detail.]",
+            "click[B093HB8RSZ]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B093HB8RSZ]",
+            "click[30 pairs]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_70": {
+        "problem": "I am looking to buy a product. i need a purple braces brush that is easy to carry, and price lower than 50.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"purple braces brush easy to carry\"]",
+            "click[Back to Search]",
+            "search[\"purple braces brush easy to carry\"]",
+            "click[B09K3YK7HK]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_71": {
+        "problem": "I am looking to buy a product. i'm looking for a long lasting foundation that has spf50+.  also, choose the color no. 21, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"long lasting foundation SPF50+ color no. 21\"]",
+            "think[I should check if B07NBFSZQW matches my desired criteria in detail.]",
+            "click[B07NBFSZQW]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B07NBFSZQW]",
+            "click[no.21]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_72": {
+        "problem": "I am looking to buy a product. i am looking for easy spirit traveltime529 mule shoes with arch support, rubber soles and in size 7.5 wide, and price lower than 100.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"easy spirit traveltime529 mule shoes with arch support, rubber soles, size 7.5 wide\"]",
+            "think[I should check if B09PPPQRKF matches my desired criteria in detail.]",
+            "click[B09PPPQRKF]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09PPPQRKF]",
+            "click[7.5 wide]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_73": {
+        "problem": "I am looking to buy a product. find me the fomiyes 4pcs silicone travel bottles that are easy to carry, and price lower than 60.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"fomiyes 4pcs silicone travel bottles easy to carry\"]",
+            "think[I should check if B09NDJV2R6 matches my desired criteria in detail.]",
+            "click[B09NDJV2R6]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09NDJV2R6]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_74": {
+        "problem": "I am looking to buy a product. i would like a pink ottoman with a solid wooden frame, and price lower than 340.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"pink ottoman solid wooden frame\"]",
+            "think[I should check if B08MQ1ZVMH matches my desired criteria in detail.]",
+            "click[B08MQ1ZVMH]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08MQ1ZVMH]",
+            "click[pink]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_75": {
+        "problem": "I am looking to buy a product. i would like a three pack of 4 fluid ounce green envy hair dye, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"3 pack 4 fluid ounce green envy hair dye\"]",
+            "think[I should check if B01IPZCPXQ matches my desired criteria in detail.]",
+            "click[B01IPZCPXQ]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B01IPZCPXQ]",
+            "click[green envy]",
+            "click[4 fl oz (pack of 3)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_76": {
+        "problem": "I am looking to buy a product. i want a mid century console sofa table, and price lower than 80.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"mid century console sofa table\"]",
+            "think[Does any product on the list page exactly match the search criteria?]",
+            "click[B0733TPLRZ]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_77": {
+        "problem": "I am looking to buy a product. i would like a pink cosmetic bag that is easy to clean, and price lower than 50.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"pink cosmetic bag easy to clean\"]",
+            "think[I should check if B09HH2KRVG matches my desired criteria in detail.]",
+            "click[B09HH2KRVG]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09HH2KRVG]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_78": {
+        "problem": "I am looking to buy a product. i am looking for a grey  mules & clogs for day comfert, and price lower than 70.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"grey mules & clogs day comfort\"]",
+            "think[I should check if B07956DFSP matches my desired criteria in detail.]",
+            "click[B07956DFSP]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B07956DFSP]",
+            "click[fairisle hoodback - grey]",
+            "click[5-6]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_79": {
+        "problem": "I am looking to buy a product. i would like to get a 24 pack of 7.5 ounce bottles of non-gmo classic tonic, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"24 pack 7.5 ounce non-gmo classic tonic\"]",
+            "think[I should check if B087CYM49L matches my desired criteria in detail.]",
+            "click[B087CYM49L]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B087CYM49L]",
+            "click[classic tonic]",
+            "click[7.5 fl oz (pack of 24)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_80": {
+        "problem": "I am looking to buy a product. i need a 9.5 rubber soled hiking shoe made of light weight vinyl acetate, and price lower than 140.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\u201c9.5 rubber soled hiking shoe light weight vinyl acetate\u201d]",
+            "click[Back to Search]",
+            "search[\"9.5 rubber soled hiking shoe light weight vinyl acetate with price lower than $140\"]"
+        ]
+    },
+    "fixed_81": {
+        "problem": "I am looking to buy a product. i need a french vanilla soy wax candle, and price lower than 50.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"french vanilla soy wax candle\"]",
+            "think[I should check if B08SLJ2DJ1 matches my desired criteria in detail.]",
+            "click[B08SLJ2DJ1]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08SLJ2DJ1]",
+            "click[french vanilla_beige]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_82": {
+        "problem": "I am looking to buy a product. i would like a black brown to tan hairpiece made from synthetic hair, and price lower than 40.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"black brown tan synthetic hair hairpiece\"]",
+            "click[Back to Search]",
+            "search[black brown tan synthetic hair hairpiece]"
+        ]
+    },
+    "fixed_83": {
+        "problem": "I am looking to buy a product. i need a slim fit gray colored coat that has long sleeves. it should be in x-large size, and price lower than 40.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"slim fit gray coat long sleeves x-large\"]",
+            "think[I should check if B09FF97YGV matches my desired criteria in detail.]",
+            "click[B09FF97YGV]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09FF97YGV]",
+            "click[2#gray]",
+            "click[x-large]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_84": {
+        "problem": "I am looking to buy a product. i would like to have a plug and play high speed usb flash drive that is blue and black, the quantity should be 3 of 32g or 2 of 64g, and price lower than 40.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"plug and play high speed usb flash drive blue black\"]",
+            "click[Back to Search]",
+            "search[\"plug and play high speed usb flash drive blue black with quantity of 3 of 32g or 2 of 64g and price lower than $40\"]",
+            "click[B07TZ3NZD6]",
+            "click[blue]"
+        ]
+    },
+    "fixed_85": {
+        "problem": "I am looking to buy a product. i need a chocolate coated wafers with a 4.41 ounce size. and i choose the caramel flavor, and price lower than 80.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"chocolate coated wafers caramel flavor 4.41 ounce\"]",
+            "think[I should check if B085QMTTSC matches my desired criteria in detail.]",
+            "click[B085QMTTSC]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B085QMTTSC]",
+            "click[caramel]",
+            "click[4.41 ounce (pack of 1)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_86": {
+        "problem": "I am looking to buy a product. i need high speed hdmi cables that are 10 feet long and in a 5 pack, and price lower than 80.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"high speed HDMI cables 10 feet 5 pack\"]",
+            "think[I should check if B07D6JNW7D matches my desired criteria in detail.]",
+            "click[B07D6JNW7D]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B07D6JNW7D]",
+            "click[10 feet]",
+            "click[10-pack]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_87": {
+        "problem": "I am looking to buy a product. i want yellow machine washable batmerry summer bright decorative pillow covers, and price lower than 50.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"yellow machine washable batmerry summer bright decorative pillow covers\"]",
+            "think[I should check if B0824BVCJ3 matches my desired criteria in detail.]",
+            "click[B0824BVCJ3]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B0824BVCJ3]",
+            "click[22 x 22 inches]",
+            "click[flower yellow]",
+            "click[flower colorful]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_88": {
+        "problem": "I am looking to buy a product. i'm looking for women's bootcut pants in the brand of tapata, and price lower than 70.00 dollars ",
+        "score": 0.3333333333333333,
+        "success": false,
+        "action_history": [
+            "search[\"women's bootcut pants tapata\"]",
+            "think[I should check if B08V1262BZ matches my desired criteria in detail.]",
+            "click[B08V1262BZ]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08V1262BZ]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_89": {
+        "problem": "I am looking to buy a product. i need khaki steel toe shoes in size 11 women, and price lower than 70.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"khaki steel toe shoes size 11 women\"]",
+            "think[I should check if B07X63DQ2K matches my desired criteria in detail.]",
+            "click[B07X63DQ2K]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B07X63DQ2K]",
+            "click[11 women | 9 men]",
+            "click[khaki]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_90": {
+        "problem": "I am looking to buy a product. i would like a 7 piece king comforter set decorated with flowers and is machine washable, and price lower than 80.00 dollars ",
+        "score": 0.25,
+        "success": false,
+        "action_history": [
+            "search[\"7 piece king comforter set flowers machine washable\"]",
+            "think[I should check if B005Y8GE6C matches my desired criteria in detail.]",
+            "click[B005Y8GE6C]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B005Y8GE6C]",
+            "click[king (104 in x 92 in)]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_91": {
+        "problem": "I am looking to buy a product. im looking for a earbud headphones for stereo sound quality of style je-04b which will be more comfortable for me to use without disturbing others , and price lower than 60.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"earbud headphones stereo sound quality style je-04b comfortable without disturbing others\"]",
+            "click[Back to Search]",
+            "search[\"earbud headphones stereo sound quality style je-04b comfortable without disturbing others with price lower than $60\"]",
+            "click[B09743DFJC]",
+            "click[je-04b]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_92": {
+        "problem": "I am looking to buy a product. i would like a blue 2.95 foot wire pendent light for my living room, and price lower than 210.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"blue 2.95 foot wire pendant light\"]",
+            "click[Back to Search]",
+            "search[\"blue 2.95 foot wire pendant light with price lower than $210\"]"
+        ]
+    },
+    "fixed_93": {
+        "problem": "I am looking to buy a product. i am looking for wireless bluetooth speakers in the color a, and price lower than 140.00 dollars ",
+        "score": 0.3333333333333333,
+        "success": false,
+        "action_history": [
+            "search[\"wireless bluetooth speakers color a\"]",
+            "think[I should check if B09FT6S7MW matches my desired criteria in detail.]",
+            "click[B09FT6S7MW]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B09FT6S7MW]",
+            "click[pink]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_94": {
+        "problem": "I am looking to buy a product. i am looking for a x- large casual dresses with long sleeves, and price lower than 50.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"x-large casual dresses with long sleeves\"]",
+            "think[I should check if B083S8VGP7 matches my desired criteria in detail.]",
+            "click[B083S8VGP7]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B083S8VGP7]",
+            "click[x-large]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_95": {
+        "problem": "I am looking to buy a product. i would like to have a kosher gelato, and price lower than 120.00 dollars ",
+        "score": 0.0,
+        "success": false,
+        "action_history": [
+            "search[\"kosher gelato\"]",
+            "think[I should check if B084L27RJK matches my desired criteria in detail.]",
+            "click[B084L27RJK]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]"
+        ]
+    },
+    "fixed_96": {
+        "problem": "I am looking to buy a product. i want to find a pink women's quilted puffy vest that i can machine wash. the size needs to be extra large, and price lower than 60.00 dollars ",
+        "score": 0,
+        "success": false,
+        "action_history": [
+            "search[\"pink women's quilted puffy vest machine wash extra large\"]",
+            "click[Back to Search]",
+            "search[\"pink women's quilted puffy vest machine wash extra large\"]"
+        ]
+    },
+    "fixed_97": {
+        "problem": "I am looking to buy a product. looking for light weight fitbit versa bands for men women also choose size large, and price lower than 50.00 dollars ",
+        "score": 0.6666666666666666,
+        "success": false,
+        "action_history": [
+            "search[\"lightweight Fitbit Versa bands for men and women, size large\"]",
+            "think[I should check if B08ZXYPGDK matches my desired criteria in detail.]",
+            "click[B08ZXYPGDK]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B08ZXYPGDK]",
+            "click[large]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_98": {
+        "problem": "I am looking to buy a product. i need a fragrance free facial wash, and price lower than 40.00 dollars ",
+        "score": 1.0,
+        "success": true,
+        "action_history": [
+            "search[\"fragrance free facial wash\"]",
+            "think[I should check if B003BMI628 matches my desired criteria in detail.]",
+            "click[B003BMI628]",
+            "click[Features]",
+            "click[< Prev]",
+            "click[< Prev]",
+            "click[B003BMI628]",
+            "click[Buy Now]"
+        ]
+    },
+    "fixed_99": {
+        "problem": "I am looking to buy a product. i would like to buy a 14 inch rose gold throw pillow cover for my living room, and price lower than 60.00 dollars ",
+        "score": 0.5,
+        "success": false,
+        "action_history": [
+            "search[\"14 inch rose gold throw pillow cover\"]",
+            "click[Back to Search]",
+            "search[14 inch rose gold throw pillow cover with price lower than $60]",
+            "click[B072ZTFBYX]",
+            "click[Buy Now]"
+        ]
+    },
+    "overall": {
+        "score": 0.6001666666666666,
+        "success_rate": 0.44,
+        "count": 100
+    }
+}
