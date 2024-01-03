@@ -174,13 +174,8 @@ def textcraft_run(prompt, to_print=True, ob='', env=env, max_runs=max_runs, outp
         print(ob)
         sys.stdout.flush()
     for i in range(1, max_runs):
-        if isinstance(init_prompt, list):
-            if len(prompt):
-                action = llm(init_prompt + convert_messages(prompt), stop=['\n']).strip()
-            else: 
-                action = llm(init_prompt, stop=['\n']).strip()
-        else:
-            action = llm(init_prompt + prompt, stop=['\n']).strip()
+        
+        action = llm(init_prompt + prompt, stop=['\n']).strip()
         num_runs += 1
         action = action.lstrip('> ')
         
@@ -224,13 +219,8 @@ def textcraft_run(prompt, to_print=True, ob='', env=env, max_runs=max_runs, outp
         print(ob)
         sys.stdout.flush()
     for i in range(1, max_runs):
-        if isinstance(init_prompt, list):
-            if len(prompt):
-                action = llm(init_prompt + convert_messages(prompt), stop=['\n']).strip()
-            else: 
-                action = llm(init_prompt, stop=['\n']).strip()
-        else:
-            action = llm(init_prompt + prompt, stop=['\n']).strip()
+        
+        action = llm(init_prompt + prompt, stop=['\n']).strip()
 
         num_runs += 1
         action = action.lstrip('> ')
